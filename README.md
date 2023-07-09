@@ -1,6 +1,4 @@
-## Test Automation using Selenium Webdriver, TestNG for a CRM Application
-
-Dependency
+#Dependency
 Java
 Maven
 
@@ -12,7 +10,7 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/shyambi/selenium-java-test-automationShyamB
+git clone https://github.com/shyambi/selenium-java-test-automation.git
 cd selenium-java-test-automation/
 mvn clean test
 ```
